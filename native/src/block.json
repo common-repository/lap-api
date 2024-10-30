@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "lap/native",
+  "version": "0.1.1",
+  "title": "Banner",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "lap-api",
+  "editorScript": "file:./index.js"
+}
